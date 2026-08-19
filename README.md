@@ -99,4 +99,4 @@ Mood-ChatBot/
 
 ## License
 
-This project is for learning and personal use. Add a license file if you plan to share or distribute it.
+This project is for learning and personal use. 
